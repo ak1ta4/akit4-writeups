@@ -63,4 +63,4 @@ La contraseña encontrada es la del propio usuario root, así que el acceso ya e
 
 ---
 
-_Writeup de **BreakMySSH** · DockerLabs · por [ak1t4](https://github.com/ak1ta4)_
+_Writeup de **BreakMySSH** · DockerLabs · por [akit4](https://github.com/ak1ta4)_

@@ -1,10 +1,10 @@
-# ak1t4 // Writeups
+# akit4 // Writeups
 
 Writeups de máquinas de **DockerLabs** resueltas en laboratorio, documentadas paso a paso:
 reconocimiento, explotación, escalada de privilegios e informe de vulnerabilidades
 (CWE / OWASP · impacto · mitigación).
 
-Acompañan a mi portfolio: **https://ak1ta4.github.io/ak1t4-portfolio/**
+Acompañan a mi portfolio: **https://ak1ta4.github.io/akit4-portfolio/**
 
 ## 📂 Máquinas (18)
 
@@ -38,4 +38,4 @@ autorización expresa. La IP del equipo atacante aparece como `<IP_ATACANTE>` pa
 
 ---
 
-© 2026 akit4 · ak1t4
+© 2026 akit4

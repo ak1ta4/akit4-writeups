@@ -61,4 +61,4 @@ El exploit dispara la backdoor y me conecta al shell del puerto 6200, que ya es 
 
 ---
 
-_Writeup de **TpRoot** · DockerLabs · por [ak1t4](https://github.com/ak1ta4)_
+_Writeup de **TpRoot** · DockerLabs · por [akit4](https://github.com/ak1ta4)_

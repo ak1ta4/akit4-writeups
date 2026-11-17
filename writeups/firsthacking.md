@@ -58,4 +58,4 @@ La propia vulnerabilidad otorga una shell como root, así que no hacen falta pas
 
 ---
 
-_Writeup de **FirstHacking** · DockerLabs · por [ak1t4](https://github.com/ak1ta4)_
+_Writeup de **FirstHacking** · DockerLabs · por [akit4](https://github.com/ak1ta4)_

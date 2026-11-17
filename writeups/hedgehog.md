@@ -95,4 +95,4 @@ Máquina HedgeHog completada: cadena tails → sonic → root.
 
 ---
 
-_Writeup de **HedgeHog** · DockerLabs · por [ak1t4](https://github.com/ak1ta4)_
+_Writeup de **HedgeHog** · DockerLabs · por [akit4](https://github.com/ak1ta4)_

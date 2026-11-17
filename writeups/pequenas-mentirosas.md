@@ -124,4 +124,4 @@ Máquina Pequeñas Mentirosas completada: `uid=0(root)`.
 
 ---
 
-_Writeup de **Pequeñas Mentirosas** · DockerLabs · por [ak1t4](https://github.com/ak1ta4)_
+_Writeup de **Pequeñas Mentirosas** · DockerLabs · por [akit4](https://github.com/ak1ta4)_

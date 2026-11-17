@@ -165,4 +165,4 @@ Caso cerrado: cadena de ataque reconstruida y máquina comprometida como root.
 
 ---
 
-_Writeup de **Analyst** · DockerLabs · por [ak1t4](https://github.com/ak1ta4)_
+_Writeup de **Analyst** · DockerLabs · por [akit4](https://github.com/ak1ta4)_

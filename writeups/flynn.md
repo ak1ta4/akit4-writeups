@@ -107,4 +107,4 @@ En `/root/password.txt` hay un easter egg temático de Tron Legacy, un detalle d
 
 ---
 
-_Writeup de **Flynn** · DockerLabs · por [ak1t4](https://github.com/ak1ta4)_
+_Writeup de **Flynn** · DockerLabs · por [akit4](https://github.com/ak1ta4)_
